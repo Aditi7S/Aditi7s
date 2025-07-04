@@ -1,8 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi+I'm+Aditi+👋&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61A6,50:6A5ACD,100:00BFFF&height=200&section=header&text=Hi+I'm+Aditi+👋&fontSize=40" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7BE3D&center=true&vCenter=true&width=435&lines=Data+Analyst+|+Excel%2C+SQL%2C+Python+%7C+Data+Visualization+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7BE3D&center=true&vCenter=true&width=600&lines=Data+Analyst+|+Excel,+SQL,+Python,+Power+BI+Enthusiast" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -44,7 +45,7 @@ I'm deeply passionate about working with data to uncover insights that support d
 
 ---
 
-## 📬 Reach Me
+## 📬 Social Media
 
 <p align="center">
   <a href="www.linkedin.com/in/
