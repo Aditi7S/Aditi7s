@@ -52,7 +52,6 @@ I'm deeply passionate about working with data to uncover insights that support d
 <p align="center">
   <a href="www.linkedin.com/in/
 aditi-sharma719
-Vanity URL name
 " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
