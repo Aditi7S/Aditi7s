@@ -14,7 +14,6 @@
 Hi! I'm **Aditi**, with 2 years of experience as a Junior Data Analyst at Novel Pattern. I worked on cleaning, analyzing, and visualizing data to help drive better business decisions.
 
 I have completed a Data Analytics course from PW Skills, where I learned tools like SQL, Advanced Excel, Python, Power BI, Statistics, and basic Machine Learning.
-
 I'm deeply passionate about working with data to uncover insights that support data-driven decision making. I enjoy transforming raw information into meaningful stories that help businesses make better decisions, and I'm always eager to learn and grow in this field.
 
 
