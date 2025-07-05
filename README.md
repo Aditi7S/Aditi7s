@@ -43,15 +43,14 @@ I'm deeply passionate about working with data to uncover insights that support d
 
 ## 📚 Currently Learning
 
-- Machine Learning and AI
+- Machine Learning and aws
 
 ---
 
 ## 📬 Social Media
 
 <p align="center">
-  <a href="www.linkedin.com/in/
-aditi-sharma719
+  <a href="www.linkedin.com/in/aditi-sharma719
 " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
